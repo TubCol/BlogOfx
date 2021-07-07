@@ -1,6 +1,6 @@
 layout: page
 title: "testpage"
-permalink: /
+permalink: /testpage/
 
 # Welcome to StackEdit!
 
